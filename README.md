@@ -13,7 +13,7 @@ For security reviews or consulting, please reach out to me on
 
 | Project | Severity | Platform | Language | Social | Report |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| [Credit Guild](https://x.com/CreditGuild) | Medium | Private BBP | Solidity | [Announcement](https://x.com/OneTrueKirk/status/1784300752527413248) |  [📄](/writeups/creditguild-bounty-01.md) |
+| [Credit Guild](https://x.com/CreditGuild) | Medium | Private BBP | Solidity | [Announcement](https://x.com/OneTrueKirk/status/1784300752527413248) |  [📄](https://github.com/WardAudits/portfolio/blob/main/writeups/creditguild-bounty-01.md) |
 | [Xterio](https://x.com/xteriogames) | Medium (Duplicate) | Immunefi | Solidity | N/A | Private |
 | [Beanstalk](https://x.com/BeanstalkFarms) | Medium | Immunefi | Solidity | [Announcement](https://x.com/WardAudits/status/1851379426732491194) | Private |
 | [Secret Network](https://x.com/SecretNetwork) | Critical | Private BBP | Go | N/A | Private |
