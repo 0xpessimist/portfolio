@@ -27,6 +27,20 @@ For security reviews or consulting, please reach out to me on
 | [Eco Foundation](https://x.com/eco) | High | Cantina | Solidity | [Announcement](https://x.com/0xpessimist/status/1946213226812711201) | Private |
 | Private (NDA) | Critical | Private BBP | Go | [Announcement](https://x.com/0xpessimist/status/1946219250210787704) | Private (NDA) |
 
+### Audits
+
+| Project | Firm | Language | Date |
+|:--------|:-----|:-----|:-----|
+| Private (NDA) | Solo Audit (Myself) | Solidity | Aug 2024 |
+| [Voyager](https://voyager.cx/) | Hashlock | Solidity | Aug 2025 |
+| [Paradise Tycoon](https://paradisetycoon.com/) | Hashlock | Solidity | Aug 2025 |
+| [Zeus Exchange](https://zeustrade.io/) | Hashlock | Solidity | Aug 2025 |
+| [Zenchain Bridge](https://www.zenchain.io/) | Hashlock | Solidity | Aug 2025 |
+| [SilverSwap](https://silverswap.io/) | Hashlock | Solidity | Sep 2025 |
+| Lazymog | Hashlock | Solidity | Sep 2025 |
+| [Forte AUD](https://www.forteaud.com/) | Hashlock | Solidity | Sep 2025 |
+| [00bleck Protocol](https://x.com/00bleckprotocol) | Hashlock | Solidity | Oct 2025 |
+
 ### Hobby Projects
 
 | Project | Description | Language | Social | State |
