@@ -2,7 +2,7 @@
 
 Hi, I'm Eren, otherwise known as "pessimist". I am a 21 y/o Blockchain Security Researcher, ex-Game Designer at [Voodoo](http://voodoo.io/), occasionally contributing [Pioneer Labs](https://www.pioneerlabs.dev/).
 
-Currently focused on bug bounty hunting; also doing private audits with the [Dup1337](https://x.com/0xDup1337) team. 
+Currently focused on bug bounty hunting; also doing security reviews at [Hashlock](https://hashlock.com/).
 I can provide in-depth auditing and secure development of Solidity & Cairo smart contracts and Cosmos-SDK blockchains.
 
 For security reviews or consulting, please reach out to me on
@@ -40,6 +40,7 @@ For security reviews or consulting, please reach out to me on
 | Lazymog | Hashlock | Solidity | Sep 2025 |
 | [Forte AUD](https://www.forteaud.com/) | Hashlock | Solidity | Sep 2025 |
 | [00bleck Protocol](https://x.com/00bleckprotocol) | Hashlock | Solidity | Oct 2025 |
+| [Dedcat](https://x.com/ded__cat) | Hashlock | Solidity | Oct 2025 |
 
 ### Hobby Projects
 
