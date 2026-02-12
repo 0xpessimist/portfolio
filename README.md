@@ -1,11 +1,10 @@
 ### About Me
 
-Hi, I'm Eren, otherwise known as "pessimist". I am a 21 y/o Blockchain Security Researcher, ex-Game Designer at [Voodoo](http://voodoo.io/), occasionally contributing [Pioneer Labs](https://www.pioneerlabs.dev/).
+Hi, I'm Eren, otherwise known as "pessimist". I am a 21 y/o Blockchain Security Researcher at [Hashlock](https://hashlock.com/), ex-Game Designer at [Voodoo](http://voodoo.io/), occasionally contributing [Pioneer Labs](https://www.pioneerlabs.dev/).
 
-Currently focused on bug bounty hunting; also doing security reviews at [Hashlock](https://hashlock.com/).
-I can provide in-depth auditing and secure development of Solidity & Cairo smart contracts and Cosmos-SDK blockchains.
+I also have worked several times on a project basis with the team at [GregoAI](https://grego.ai/), operating at the bleeding edge of AI-integrated Web3 security, both before and after the company was established.
 
-For security reviews or consulting, please reach out to me on
+I can provide in-depth auditing and secure development of Solidity & Cairo smart contracts and Cosmos-SDK blockchains. For security reviews or consulting, please reach out to me on
 * Telegram: @psm_ist
 * or send me an email: psmist [at] proton [dot] me
 
@@ -26,6 +25,7 @@ For security reviews or consulting, please reach out to me on
 | [Eco Foundation](https://x.com/eco) | High | Cantina | Solidity | [Announcement](https://x.com/0xpessimist/status/1946213226812711201) | Private |
 | [Eco Foundation](https://x.com/eco) | High | Cantina | Solidity | [Announcement](https://x.com/0xpessimist/status/1946213226812711201) | Private |
 | Private (NDA) | Critical | Private BBP | Go | [Announcement](https://x.com/0xpessimist/status/1946219250210787704) | Private (NDA) |
+| [Neutron](https://x.com/neutron_org) | Low | Immunefi | Go | [Announcement](https://x.com/0xpessimist/status/2003827171106914518) | Private |
 
 ### Audits
 
@@ -41,6 +41,10 @@ For security reviews or consulting, please reach out to me on
 | [Forte AUD](https://www.forteaud.com/) | Hashlock | Solidity | Sep 2025 |
 | [00bleck Protocol](https://x.com/00bleckprotocol) | Hashlock | Solidity | Oct 2025 |
 | [Dedcat](https://x.com/ded__cat) | Hashlock | Solidity | Oct 2025 |
+| [KlimaDAO](https://x.com/KlimaDAO) | Hashlock | Solidity | Dec 2025 |
+| [Alethia AI](https://x.com/real_alethia) | Hashlock | Solidity | Jan 2026 |
+| [BlackTie Digital](https://www.blacktie.digital/) | Hashlock | Solidity | Jan 2026 |
+| [Superset](https://x.com/SupersetFinance) | Hashlock | Solidity | Jan 2026 |
 
 ### Hobby Projects
 
