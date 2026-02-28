@@ -45,6 +45,8 @@ I can provide in-depth auditing and secure development of Solidity & Cairo smart
 | [Alethia AI](https://x.com/real_alethia) | Hashlock | Solidity | Jan 2026 |
 | [BlackTie Digital](https://www.blacktie.digital/) | Hashlock | Solidity | Jan 2026 |
 | [Superset](https://x.com/SupersetFinance) | Hashlock | Solidity | Jan 2026 |
+| [Noon](https://x.com/noon_capital) | Hashlock | Solidity | Feb 2026 |
+
 
 ### Hobby Projects
 
