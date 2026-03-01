@@ -41,6 +41,7 @@ I can provide in-depth auditing and secure development of Solidity & Cairo smart
 | [Forte AUD](https://www.forteaud.com/) | Hashlock | Solidity | Sep 2025 |
 | [00bleck Protocol](https://x.com/00bleckprotocol) | Hashlock | Solidity | Oct 2025 |
 | [Dedcat](https://x.com/ded__cat) | Hashlock | Solidity | Oct 2025 |
+| Private | Solo Audit (Myself) | Solidity | Oct 2025 |
 | [KlimaDAO](https://x.com/KlimaDAO) | Hashlock | Solidity | Dec 2025 |
 | [Alethia AI](https://x.com/real_alethia) | Hashlock | Solidity | Jan 2026 |
 | [BlackTie Digital](https://www.blacktie.digital/) | Hashlock | Solidity | Jan 2026 |
