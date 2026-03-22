@@ -26,6 +26,7 @@ I can provide in-depth auditing and secure development of Solidity & Cairo smart
 | [Eco Foundation](https://x.com/eco) | High | Cantina | Solidity | [Announcement](https://x.com/0xpessimist/status/1946213226812711201) | Private |
 | Private (NDA) | Critical | Private BBP | Go | [Announcement](https://x.com/0xpessimist/status/1946219250210787704) | Private (NDA) |
 | [Neutron](https://x.com/neutron_org) | Low | Immunefi | Go | [Announcement](https://x.com/0xpessimist/status/2003827171106914518) | Private |
+| Private for now | Critical | Immunefi | Go | N/A | Private |
 
 ### Audits
 
@@ -39,14 +40,16 @@ I can provide in-depth auditing and secure development of Solidity & Cairo smart
 | [SilverSwap](https://silverswap.io/) | Hashlock | Solidity | Sep 2025 |
 | Lazymog | Hashlock | Solidity | Sep 2025 |
 | [Forte AUD](https://www.forteaud.com/) | Hashlock | Solidity | Sep 2025 |
-| [00bleck Protocol](https://x.com/00bleckprotocol) | Hashlock | Solidity | Oct 2025 |
-| [Dedcat](https://x.com/ded__cat) | Hashlock | Solidity | Oct 2025 |
+| [00bleck Protocol](https://oobleck.xyz/) | Hashlock | Solidity | Oct 2025 |
+| [Dedcat](https://www.ded.cat/) | Hashlock | Solidity | Oct 2025 |
 | Private | Solo Audit (Myself) | Solidity | Oct 2025 |
-| [KlimaDAO](https://x.com/KlimaDAO) | Hashlock | Solidity | Dec 2025 |
-| [Alethia AI](https://x.com/real_alethia) | Hashlock | Solidity | Jan 2026 |
+| [KlimaDAO](https://www.klimaprotocol.com/) | Hashlock | Solidity | Dec 2025 |
+| [Alethia AI](https://www.alethia.ai/) | Hashlock | Solidity | Jan 2026 |
 | [BlackTie Digital](https://www.blacktie.digital/) | Hashlock | Solidity | Jan 2026 |
-| [Superset](https://x.com/SupersetFinance) | Hashlock | Solidity | Jan 2026 |
-| [Noon](https://x.com/noon_capital) | Hashlock | Solidity | Feb 2026 |
+| [Superset](https://www.superset.finance/) | Hashlock | Solidity | Jan 2026 |
+| [Noon](https://noon.capital/) | Hashlock | Solidity | Feb 2026 |
+| [TOPOS](https://topos.one/) | Hashlock | Solidity | Mar 2026 |
+| [Superset (2nd Audit)](https://www.superset.finance/) | Hashlock | Solidity | Mar 2026 |
 
 
 ### Hobby Projects
@@ -64,7 +67,7 @@ I can provide in-depth auditing and secure development of Solidity & Cairo smart
 
 | Project | Description | Language | Social | State |
 |:--:|:--:|:--:|:--:|:--:|
-| [Fibrous Finance](https://x.com/FibrousFinance) | We developed Solidity smart contracts to port Fibrous Finance, Starknet's first DEX Aggregator, to EVM-based blockchains (specifically Scroll). | Solidity | [Announcement](https://x.com/FibrousFinance/status/1845482601466732722) | Deployed on Scroll |
+| [Fibrous Finance](https://x.com/FibrousFinance) | We developed Solidity smart contracts to port Fibrous Finance, Starknet's first DEX Aggregator, to EVM-based blockchains (specifically Scroll). | Solidity | [Announcement](https://x.com/FibrousFinance/status/1845482601466732722) | In active use on Scroll Mainnet |
 
 ### Competitions
 
