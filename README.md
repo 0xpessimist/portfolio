@@ -50,13 +50,14 @@ I can provide in-depth auditing and secure development of Solidity & Cairo smart
 | [Noon](https://noon.capital/) | Hashlock | Solidity | Feb 2026 |
 | [TOPOS](https://topos.one/) | Hashlock | Solidity | Mar 2026 |
 | [Superset (2nd Audit)](https://www.superset.finance/) | Hashlock | Solidity | Mar 2026 |
+| [HedgeHogs](https://www.hedgehogs.app/) | Hashlock | Solidity | Apr 2026 |
 
 
 ### Hobby Projects
 
 | Project | Description | Language | Social | State |
 |:--:|:--:|:--:|:--:|:--:|
-| [Serpent Router](https://github.com/0xpessimist/serpent) | A modular and gas-efficient DEX Aggregation router that facilitates token and ether swaps through multiple protocols via swappers. | Mostly Yul with Solidity | N/A | Still in the making |
+| [Serpent Router](https://github.com/0xpessimist/serpent) | A modular and gas-efficient DEX Aggregation router that facilitates token and ether swaps through multiple protocols via swappers. | Mostly Yul with Solidity | N/A | No longer maintained |
 | [Block Scanner](https://github.com/0xpessimist/block-scanner) | Discord bot that provides blockchain information to users in real-time (currently only supports Ethereum Mainnet). | Python | N/A | No longer maintained |
 | [Combined Auction](https://github.com/0xpessimist/combined-auction) | Smart contract implementing a novel combined auction mechanism switching from Dutch to English Auction, providing more flexibility. | Solidity | N/A | No longer maintained |
 
