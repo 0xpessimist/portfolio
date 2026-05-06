@@ -52,6 +52,7 @@ I can provide in-depth auditing and secure development of Solidity & Cairo smart
 | [TOPOS](https://topos.one/) | Hashlock | Solidity | Mar 2026 |
 | [Superset (2nd Audit)](https://www.superset.finance/) | Hashlock | Solidity | Mar 2026 |
 | [HedgeHogs](https://www.hedgehogs.app/) | Hashlock | Solidity | Apr 2026 |
+| [VALYGO](https://valygo.com/) | Hashlock | Solidity | Apr 2026 |
 
 
 ### Hobby Projects
