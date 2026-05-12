@@ -20,10 +20,10 @@ I can provide in-depth auditing and secure development of Solidity & Cairo smart
 | [Neutaro (Timpi)](https://neutaro.com/) | Critical | Private BBP | Go | N/A |
 | [Kava](https://x.com/KAVA_CHAIN) | High | Private BBP | Go | N/A |
 | [Maya Protocol](https://x.com/Maya_Protocol) | High | Immunefi | Go | [Announcement](https://x.com/0xpessimist/status/1893050375097184595) |
-| [Omni Network (now Nomina) ](https://x.com/Nomina) | Low | Immunefi | Go | [Announcement](https://x.com/0xpessimist/status/1905346586625876389) |
-| [Omni Network (now Nomina) ](https://x.com/Nomina) | Low | Immunefi | Go | N/A |
-| [Omni Network (now Nomina) ](https://x.com/Nomina) | High | Immunefi | Go | [Announcement](https://x.com/0xpessimist/status/1915844486292509103) |
-| [Omni Network (now Nomina) ](https://x.com/Nomina) | Medium (Known Issue) | Immunefi | Go | N/A |
+| [Nomina (fka Omni)](https://x.com/Nomina) | Low | Immunefi | Go | [Announcement](https://x.com/0xpessimist/status/1905346586625876389) |
+| [Nomina (fka Omni)](https://x.com/Nomina) | Low | Immunefi | Go | N/A |
+| [Nomina (fka Omni)](https://x.com/Nomina) | High | Immunefi | Go | [Announcement](https://x.com/0xpessimist/status/1915844486292509103) |
+| [Nomina (fka Omni)](https://x.com/Nomina) | Medium (Known Issue) | Immunefi | Go | N/A |
 | [Eco Foundation](https://x.com/eco) | High | Cantina | Solidity | [Announcement](https://x.com/0xpessimist/status/1946213226812711201) |
 | [Eco Foundation](https://x.com/eco) | High | Cantina | Solidity | [Announcement](https://x.com/0xpessimist/status/1946213226812711201) |
 | Private (NDA) | Critical | Private BBP | Go | [Announcement](https://x.com/0xpessimist/status/1946219250210787704) |
