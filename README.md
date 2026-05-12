@@ -10,24 +10,30 @@ I can provide in-depth auditing and secure development of Solidity & Cairo smart
 
 ### Bug Bounties
 
-| Project | Severity | Platform | Language | Social | Report |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| [Credit Guild](https://x.com/CreditGuild) | Medium | Private BBP | Solidity | [Announcement](https://x.com/OneTrueKirk/status/1784300752527413248) |  [📄](https://github.com/WardAudits/portfolio/blob/main/writeups/creditguild-bounty-01.md) |
-| [Xterio](https://x.com/xteriogames) | Medium (Duplicate) | Immunefi | Solidity | N/A | Private |
-| [Beanstalk](https://x.com/BeanstalkFarms) | Medium | Immunefi | Solidity | [Announcement](https://x.com/WardAudits/status/1851379426732491194) | Private |
-| [Secret Network](https://x.com/SecretNetwork) | Critical | Private BBP | Go | N/A | Private |
-| [Stride](https://x.com/stride_zone) | Medium | Private BBP | Go | N/A | Private |
-| [Neutaro (Timpi)](https://neutaro.com/) | Critical | Private BBP | Go | N/A | Private |
-| [Maya Protocol](https://x.com/Maya_Protocol) | High | Immunefi | Go | [Announcement](https://x.com/0xpessimist/status/1893050375097184595) | Private |
-| [Omni Network](https://x.com/OmniFDN) | Low | Immunefi | Go | [Announcement](https://x.com/0xpessimist/status/1905346586625876389) | Private |
-| [Omni Network](https://x.com/OmniFDN) | Low | Immunefi | Go | N/A | Private |
-| [Omni Network](https://x.com/OmniFDN) | High | Immunefi | Go | [Announcement](https://x.com/0xpessimist/status/1915844486292509103) | Private |
-| [Eco Foundation](https://x.com/eco) | High | Cantina | Solidity | [Announcement](https://x.com/0xpessimist/status/1946213226812711201) | Private |
-| [Eco Foundation](https://x.com/eco) | High | Cantina | Solidity | [Announcement](https://x.com/0xpessimist/status/1946213226812711201) | Private |
-| Private (NDA) | Critical | Private BBP | Go | [Announcement](https://x.com/0xpessimist/status/1946219250210787704) | Private (NDA) |
-| [Neutron](https://x.com/neutron_org) | Low | Immunefi | Go | [Announcement](https://x.com/0xpessimist/status/2003827171106914518) | Private |
-| Private for now | Critical | Immunefi | Go | N/A | Private |
-| Private for now | High | Private BBP | Go | N/A | Private |
+| Project | Severity | Platform | Language | Social |
+|:--:|:--:|:--:|:--:|:--:|
+| [Credit Guild](https://x.com/CreditGuild) | Medium | Private BBP | Solidity | [Announcement](https://x.com/OneTrueKirk/status/1784300752527413248) |
+| [Xterio](https://x.com/xteriogames) | Medium (Duplicate) | Immunefi | Solidity | N/A |
+| [Beanstalk](https://x.com/BeanstalkFarms) | Medium | Immunefi | Solidity | [Announcement](https://x.com/WardAudits/status/1851379426732491194) |
+| [Secret Network](https://x.com/SecretNetwork) | Critical | Private BBP | Go | N/A |
+| [Stride](https://x.com/stride_zone) | Medium | Private BBP | Go | N/A |
+| [Neutaro (Timpi)](https://neutaro.com/) | Critical | Private BBP | Go | N/A |
+| [Maya Protocol](https://x.com/Maya_Protocol) | High | Immunefi | Go | [Announcement](https://x.com/0xpessimist/status/1893050375097184595) |
+| [Omni Network](https://x.com/OmniFDN) | Low | Immunefi | Go | [Announcement](https://x.com/0xpessimist/status/1905346586625876389) |
+| [Omni Network](https://x.com/OmniFDN) | Low | Immunefi | Go | N/A |
+| [Omni Network](https://x.com/OmniFDN) | High | Immunefi | Go | [Announcement](https://x.com/0xpessimist/status/1915844486292509103) |
+| [Eco Foundation](https://x.com/eco) | High | Cantina | Solidity | [Announcement](https://x.com/0xpessimist/status/1946213226812711201) |
+| [Eco Foundation](https://x.com/eco) | High | Cantina | Solidity | [Announcement](https://x.com/0xpessimist/status/1946213226812711201) |
+| Private (NDA) | Critical | Private BBP | Go | [Announcement](https://x.com/0xpessimist/status/1946219250210787704) |
+| [Neutron](https://x.com/neutron_org) | Low | Immunefi | Go | [Announcement](https://x.com/0xpessimist/status/2003827171106914518) |
+| Private for now | Critical | Immunefi | Go | N/A |
+| Private for now | High | Private BBP | Go | N/A |
+
+_Bug Bounties with **[0xSorryNotSorry](https://github.com/0xSorryNotSorry)**_
+
+| Project | Severity | Platform | Language | Social |
+|:--:|:--:|:--:|:--:|:--:|
+| [Silo Finance](https://x.com/SiloFinance) | Medium | Private Disclosure | Solidity | N/A |
 
 ### Audits
 
