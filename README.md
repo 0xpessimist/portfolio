@@ -33,6 +33,7 @@ _Bug Bounties with **[0xSorryNotSorry](https://github.com/0xSorryNotSorry)**_
 
 | Project | Severity | Platform | Language | Social |
 |:--:|:--:|:--:|:--:|:--:|
+| [Threshold Network](https://x.com/TheTNetwork) | Medium (Duplicate) | Immunefi | Solidity | N/A |
 | [Silo Finance](https://x.com/SiloFinance) | Medium | Private Disclosure | Solidity | N/A |
 
 ### Audits
