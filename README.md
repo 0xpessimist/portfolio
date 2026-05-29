@@ -62,6 +62,7 @@ _Bug Bounties with **[0xSorryNotSorry](https://github.com/0xSorryNotSorry)**_
 | [Superset (2nd Audit)](https://www.superset.finance/) | Hashlock | Solidity | Mar 2026 |
 | [HedgeHogs](https://www.hedgehogs.app/) | Hashlock | Solidity | Apr 2026 |
 | [VALYGO](https://valygo.com/) | Hashlock | Solidity | Apr 2026 |
+| [Omen](https://www.agentomen.com/) | Hashlock | Solidity | May 2026 |
 
 
 ### Hobby Projects
