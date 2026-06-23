@@ -28,7 +28,6 @@ I can provide in-depth auditing and secure development of Solidity & Cairo smart
 | [Eco Foundation](https://x.com/eco) | High | Cantina | Solidity | [Announcement](https://x.com/0xpessimist/status/1946213226812711201) |
 | Private (NDA) | Critical | Private BBP | Go | [Announcement](https://x.com/0xpessimist/status/1946219250210787704) |
 | [Neutron](https://x.com/neutron_org) | Low | Immunefi | Go | [Announcement](https://x.com/0xpessimist/status/2003827171106914518) |
-| Private for now | Critical | Immunefi | Go | N/A |
 | Private for now | High (Duplicate) | Private BBP | Go | N/A |
 
 _Bug Bounties with **[0xSorryNotSorry](https://github.com/0xSorryNotSorry)**_
