@@ -41,7 +41,7 @@ _Bug Bounties with **[Marco Hextor](https://x.com/marcohextor)**_
 
 | Project | Severity | Platform | Language | Social |
 |:--:|:--:|:--:|:--:|:--:|
-| Private (RP Category 3) | Critical | Immunefi | Go | N/A |
+| [Injective](https://x.com/Injective) | Critical | Immunefi | Go | N/A |
 
 ### Audits
 
