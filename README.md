@@ -1,6 +1,6 @@
 ### About Me
 
-Hi, I'm Eren, otherwise known as "pessimist". I am a 21 y/o Blockchain Security Researcher at [Hashlock](https://hashlock.com/), ex-Game Designer at [Voodoo](http://voodoo.io/), occasionally contributing [Pioneer Labs](https://www.pioneerlabs.dev/).
+Hi, I'm Eren, otherwise known as "pessimist". I am a 22 y/o Blockchain Security Researcher at [Hashlock](https://hashlock.com/), ex-Game Designer at [Voodoo](http://voodoo.io/), occasionally contributing [Pioneer Labs](https://www.pioneerlabs.dev/).
 
 I also have worked several times on a project basis with the team at [GregoAI](https://grego.ai/), operating at the bleeding edge of AI-integrated Web3 security, both before and after the company was established.
 
