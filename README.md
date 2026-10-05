@@ -30,6 +30,7 @@ I can provide in-depth auditing and secure development of Solidity & Cairo smart
 | [Neutron](https://x.com/neutron_org) | Low | Immunefi | Go | [Announcement](https://x.com/0xpessimist/status/2003827171106914518) |
 | Private for now | High (Duplicate) | Private BBP | Go | N/A |
 | [Citrea](https://x.com/citrea_xyz) | Medium | HackenProof | Rust | N/A |
+| [Fireblocks MPC](https://x.com/FireblocksHQ) | Critical (Duplicate) | Bugcrowd | C++ | N/A |
 
 _Bug Bounties with **[0xSorryNotSorry](https://github.com/0xSorryNotSorry)**_
 
